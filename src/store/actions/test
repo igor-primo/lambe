@@ -1,0 +1,1 @@
+curl 'https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=' -H 'Content-Type: application/json' --data-binary '{"email":"igorp2@gmail.com","password":"1234567","returnSecureToken":true}'

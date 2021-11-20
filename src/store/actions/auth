@@ -1,0 +1,1 @@
+{ "rules": { ".read": "now < 1633662000000", // 2021-10-8 ".write": "auth != null", // 2021-10-8 "users": { "$id":{ ".write": "!data.exists()" } } } }
